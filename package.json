@@ -17,5 +17,8 @@
     "jsdom": "^9.2.1",
     "mocha": "^2.5.3",
     "npm-run-all": "^4.0.2"
+  },
+  "dependencies": {
+    "eslint": "^5.6.1"
   }
 }
